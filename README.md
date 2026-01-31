@@ -1,4 +1,4 @@
-![AwkLab Banner](AwkLab.png)
+![AwkLab Banner](AwkLab_logo.png)
 
 
 <!--
